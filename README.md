@@ -1,6 +1,6 @@
 # AirBnB-Regulation-Analysis
 An analytical study on the impact of regulations on Airbnb listings, pricing, and market dynamics. This project explores how legal restrictions affect short-term rental markets using data analysis and visualization.
-
+# project
 ![image](https://github.com/user-attachments/assets/d46bce3f-13de-4007-84a1-aba1c32de538)
 
 ## Overview:
