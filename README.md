@@ -34,12 +34,12 @@ Despite short-term setbacks, demand for short-term rentals remains strong.
 Airbnb’s ability to recover and stabilize post-regulation highlights its resilience as a business model.
 
 ## Recommendations for Airbnb in Regulated Markets
-1.Anticipate and Monitor Regulations – Track global policy changes to prepare in advance and minimize business disruptions.
+1. (# Anticipate and Monitor Regulations) – Track global policy changes to prepare in advance and minimize business disruptions.
 
-2.Mitigate Host & Customer Churn – Provide clear compliance support to hosts and maintain a seamless customer experience.
+2. Mitigate Host & Customer Churn – Provide clear compliance support to hosts and maintain a seamless customer experience.
 
-3.Protect Brand Reputation – Ensure regulations do not negatively impact guest satisfaction by upholding service quality.
+3. Protect Brand Reputation – Ensure regulations do not negatively impact guest satisfaction by upholding service quality.
 
-4.Self-Regulate Listings – Implement stricter onboarding rules and limit Airbnb density to prevent excessive government intervention.
+4. Self-Regulate Listings – Implement stricter onboarding rules and limit Airbnb density to prevent excessive government intervention.
 
-5.Collaborate with Authorities – Work with policymakers to shape fair regulations that balance business growth and community needs.
+5. Collaborate with Authorities – Work with policymakers to shape fair regulations that balance business growth and community needs.
